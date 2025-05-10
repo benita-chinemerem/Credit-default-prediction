@@ -1,0 +1,9 @@
+# Ignore these when uploading to GitHub
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+data/
+venv/
+env/
